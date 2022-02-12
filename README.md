@@ -6,6 +6,7 @@ by doing the 100 Days of Code Python Bootcamp by Angela Yu.
 - Using API's
 - Webscraping
 - Object Oriented Programming
+- Creating UI's
 
 ## Developer Tools Used
 - PyCharm
