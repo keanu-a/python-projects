@@ -7,3 +7,4 @@ The snake and food are made using the turtle module.
 2. A random food will spawn
 3. If the snake gets the food, the score and length of the snake increases by 1.
 4. If the snake hits a wall or it's tail then game over and the game resets.
+5. The highscore will be kept in a file called data.txt
