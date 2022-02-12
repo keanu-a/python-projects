@@ -11,3 +11,4 @@ The idea of a pomodoro timer is to:
 ## Program
 The user interface (UI) is made using the Tkinter module.
 The timer is made by refreshing the value every 1000 ms (1 second).
+The tomato image is just a PNG file, but can be switched to any image.
