@@ -11,3 +11,4 @@ by doing the 100 Days of Code Python Bootcamp by Angela Yu.
 ## Developer Tools Used
 - PyCharm
 - Replit
+- Selenium
